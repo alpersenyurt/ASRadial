@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ASRadial/ASRadialMenu.swift"
+            timestampString = "442187761.31608"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "itemsWillAppear(_:frame:inView:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ASRadial/ASRadialMenu.swift"
+            timestampString = "442356339.506254"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "132"
+            endingLineNumber = "132"
+            landmarkName = "itemsWillDisapearIntoButton(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ASRadial/ASRadialMenu.swift"
+            timestampString = "442356339.506254"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "itemsWillAppear(_:frame:inView:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ASRadial.ASRadialMenu.itemsWillAppear (ASRadial.ASRadialMenu)(ObjectiveC.UIButton, withFrame : C.CGRect, inView : ObjectiveC.UIView) -&gt; ()"
+                  moduleName = "ASRadial"
+                  urlString = "file:///Users/alpersenyurt/Desktop/xcodeProject/ASRadial/ASRadial/ASRadialMenu.swift"
+                  timestampString = "442188618.889931"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "2057">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "reabstraction thunk helper from @callee_owned (@unowned ASRadial.ASRadialMenu) -&gt; (@unowned Swift.Int) to @callee_owned (@owned ASRadial.ASRadialMenu) -&gt; (@unowned Swift.Int)"
+                  moduleName = "ASRadial"
+                  urlString = "file:///Users/alpersenyurt/Desktop/xcodeProject/ASRadial/ASRadial/ASRadialMenu.swift"
+                  timestampString = "442188618.890186"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "reabstraction thunk helper from @callee_owned (@owned ASRadial.ASRadialMenu) -&gt; (@unowned Swift.Int) to @callee_owned (@in ASRadial.ASRadialMenu) -&gt; (@out Swift.Int)"
+                  moduleName = "ASRadial"
+                  urlString = "file:///Users/alpersenyurt/Desktop/xcodeProject/ASRadial/ASRadial/ASRadialMenu.swift"
+                  timestampString = "442188618.890358"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "11">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "reabstraction thunk helper from @callee_owned (@in ASRadial.ASRadialMenu) -&gt; (@out Swift.Int) to @callee_owned (@owned ASRadial.ASRadialMenu) -&gt; (@unowned Swift.Int)"
+                  moduleName = "ASRadial"
+                  urlString = "file:///Users/alpersenyurt/Desktop/xcodeProject/ASRadial/ASRadial/ASRadialMenu.swift"
+                  timestampString = "442188618.890545"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ASRadial/ASRadialMenu.swift"
+            timestampString = "442356339.506254"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "itemsWillAppear(_:frame:inView:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ASRadial/ASRadialMenu.swift"
+            timestampString = "442356339.506254"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "209"
+            endingLineNumber = "209"
+            landmarkName = "buttonDidFinishAnimation(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
